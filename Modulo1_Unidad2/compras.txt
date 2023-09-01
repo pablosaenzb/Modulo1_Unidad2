@@ -1,3 +1,6 @@
 pan 
 fruta
 verdura
+galletitas
+manzana 
+banana
