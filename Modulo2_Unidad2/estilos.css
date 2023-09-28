@@ -1,0 +1,62 @@
+/* Estilos jenerales */
+
+.rojo {
+    background-color: red;
+}
+
+.azul {
+    background-color: blue;
+}
+
+.verde {
+    background-color: green;
+}
+
+.cuadrado {
+    width: 200px; 
+    height: 200px; 
+    color: white;
+    align-items: center;
+    display: flex;
+    font-size: 30px;
+    justify-content: center; 
+}
+
+
+/* ejercicio 1 */
+
+ .contenedor {
+    display: flex;
+    flex-direction: column; 
+    align-items: flex-end;
+    width: 600px;
+    height: 600px; 
+    border: solid black; 
+}
+
+
+/* ejercicio 2 */
+
+
+.contenedor2 {
+    display: flex;
+    justify-content: center; 
+    align-items: center; /* Centrar verticalmente en el contenedor */
+    width: 600px;
+    height: 600px; 
+    border: solid black;
+}
+
+
+/* ejercicio 1 */
+
+.contenedor3 {
+    display: flex;
+    justify-content: space-between; 
+    align-items: center; 
+    width: 1200px;
+    height: 200px;
+    border: solid black;
+}
+
+
