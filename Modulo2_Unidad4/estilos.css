@@ -1,0 +1,28 @@
+body {
+    background-color: #f0f0f0;
+    margin: 0;
+}
+
+.main-content {
+    background-color: #ffffff;
+    padding: 20px;
+}
+
+.aside {
+    margin-top: 20px;
+}
+
+
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+#contenedor_mayor {
+   color: white;
+}
+
+.aside div.bg-info {
+    height: 500px;
+}
